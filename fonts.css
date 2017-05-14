@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Futura-BT-normal';
+  src: url( 'fonts/FUTURAN.TTF' );
+}
+
+@font-face {
+  font-family: 'Futura-BT-bold';
+  src: url( 'FUTURAH.TTF' );
+}
+
+@font-face {
+  font-family: 'Futura-BT-light';
+  src: url( 'fonts/FUTURAL.TTF' );
+}
+
+@font-face {
+  font-family: 'Futura-BT-medium';
+  src: url( 'fonts/FUTURAM.TTF' );
+}
